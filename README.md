@@ -1,7 +1,7 @@
 ## Hello, I am Madhvi 👋
 
 
-I am a self-taught Backend Developer, turned Full Stack Developer but passionate about Backend Development.
+I am a self-taught Backend Developer, turned Full Stack Developer.
 
 
 **About me**
