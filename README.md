@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hello, I am Madhvi 👋
 
-<!--
-**madhvi-n/madhvi-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a self-taught Backend Developer, turned Full Stack Developer but passionate about Backend Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**About me**
+
+- 🌱 Currently learning DSA
+- 🔭 Currently working on Django projects
+- ⚡ When I am not coding, I read books (especially manga, fiction) and play boardgames on [BGA](https://boardgamearena.com/player?id=93139433)
+
+<!-- | <a href="https://github.com/madhvi-n/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=madhvi-n&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Madhvi's github stats" /></a> | <a href="https://github.com/madhvi-n/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhvi-n&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- | -->
+
+
+<a href="https://github.com/madhvi-n/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhvi-n&layout=compact&theme=buefy&hide_border=false" /></a>
+
