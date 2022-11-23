@@ -6,7 +6,7 @@ I am a self-taught Backend Developer, turned Full Stack Developer.
 
 **About me**
 
-- 🌱 Currently learning DSA
+- 🌱 Currently focusing on DSA
 - 🔭 Currently working on Django projects
 - ⚡ When I am not coding, I read books (tech, fiction, especially manga) and play boardgames on [BGA](https://boardgamearena.com/player?id=93139433)
 
