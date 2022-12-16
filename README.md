@@ -14,7 +14,6 @@ I am a self-taught Backend Developer, turned Full Stack Developer.
 | ------------- | ------------- | -->
 
 
-<!-- <a href="https://github.com/madhvi-n#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhvi-n&layout=compact&theme=buefy#gh-light-mode-only&hide_border=false" /></a>
+<a href="https://github.com/madhvi-n#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhvi-n&layout=compact&theme=buefy#gh-light-mode-only&hide_border=false" /></a>
 
 <a href="https://github.com/madhvi-n#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhvi-n&layout=compact&theme=radical#gh-dark-mode-only&hide_border=false" /></a>
- -->
