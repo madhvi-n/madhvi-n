@@ -10,10 +10,18 @@ I am a self-taught Backend Developer, turned Full Stack Developer.
 - 🔭 Currently working on Django projects
 - ⚡ When I am not coding, I read books (tech, fiction, especially manga) and play boardgames on [BGA](https://boardgamearena.com/player?id=93139433)
 
-<!-- | <a href="https://github.com/madhvi-n"><img align="center" src="https://github-readme-stats.vercel.app/api?username=madhvi-n&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Madhvi's github stats" /></a> | <a href="https://github.com/madhvi-n"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhvi-n&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- | -->
+<a href="https://github.com/madhvi-n#gh-light-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhvi-n&show_icons=true&locale=en&layout=compact" alt="madhvi-n" />
+</a>
+    
+<a href="https://github.com/madhvi-n#gh-dark-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhvi-n&show_icons=true&locale=en&layout=compact&theme=radical" alt="madhvi-n" />
+</a>
+  
+  
+&nbsp; 
+    
+    
+| <a href="https://github.com/madhvi-n#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api?username=madhvi-n&show_icons=true&locale=en&hide_border=true" /></a><a href="https://github.com/madhvi-n#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api?username=madhvi-n&show_icons=true&locale=en&theme=radical&hide_border=true" /> <a/>  | <a href="https://github.com/madhvi-n#gh-light-mode-only"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhvi-n&hide_border=true" alt="madhvi-n" /></a> <a href="https://github.com/madhvi-n#gh-dark-mode-only"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhvi-n&theme=radical&hide_border=true" alt="madhvi-n" /></a> |
+| ------------- |:-------------:|
 
-
-<a href="https://github.com/madhvi-n#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhvi-n&layout=compact&theme=buefy#gh-light-mode-only&hide_border=false" /></a>
-
-<a href="https://github.com/madhvi-n#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhvi-n&layout=compact&theme=radical#gh-dark-mode-only&hide_border=false" /></a>
