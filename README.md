@@ -7,8 +7,8 @@ I am a self-taught Backend Developer, turned Full Stack Developer.
 **About me**
 
 - 🌱 Currently focusing on DSA
-- 🔭 Currently working on Django projects
-- ⚡ When I am not coding, I read books (tech, fiction, especially manga) and play boardgames on [BGA](https://boardgamearena.com/player?id=93139433)
+- 🔭 Currently working on a Hotel Booking Project using Django
+- ⚡ When I am not coding, I read books and play boardgames.
 
 <a href="https://github.com/madhvi-n#gh-light-mode-only">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhvi-n&show_icons=true&locale=en&layout=compact" alt="madhvi-n" />
