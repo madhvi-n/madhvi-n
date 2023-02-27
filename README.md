@@ -4,7 +4,7 @@ I am a Backend Developer and create projects mostly using Django
 
 
 ## 💫 About Me:
-🔭 I’m currently working on Hotel Booking App<br>👯 I’m looking to collaborate on Django Projects<br>🤝 I’m looking for help with Jenkins<br>🌱 I’m currently learning Jenkins and Elasticsearch<br>💬 Ask me about [Django](mailto:madhvinandanwar@gmail.com)<br>⚡ Fun fact: I enjoy reading books and playing boardgames.
+🔭 I’m currently working on Store Monitoring App<br>👯 I’m looking to collaborate on Django Projects<br>🌱 I’m currently learning Jenkins and Elasticsearch<br>💬 Ask me about [Django](mailto:madhvinandanwar@gmail.com)<br>⚡ Fun fact: I enjoy reading books and playing boardgames.
 
 
 ## 💻 Tech Stack:
