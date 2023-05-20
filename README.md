@@ -5,7 +5,7 @@ I am a Backend Developer and create projects mostly using Django
 
 ## 💫 About Me:
 <!-- 🔭 I’m currently working on Chat application<br> -->
-🌱 I’m currently learning Jenkins and Docker<br>💬 Ask me anything about [Django](mailto:madhvinandanwar@gmail.com)<br>⚡ Fun fact: When I am not coding, you can find me reading manga or playing boardgames. 
+🌱 I’m currently learning Jenkins and Docker<br> 💬 Ask me anything about [Django](mailto:madhvinandanwar@gmail.com)<br>⚡ Fun fact: When I am not coding, you can find me reading [manga](https://www.goodreads.com/user/show/58715825-maya) or playing [boardgames](https://boardgamearena.com/player?id=84786864). 
 
 
 ## 💻 Tech Stack:
