@@ -26,6 +26,12 @@ I'm always eager to expand my knowledge and stay updated with the latest trends.
 
 Feel free to reach out if you have any resources or recommendations related to these topics!
 
+
+## 🚀 About My Work
+- I currently hold the role of lead developer within the parental backend team, where we are actively involved in the development of a parental control application for robots. As a lead developer, I am responsible for overseeing the design and development of the backend system, empowering parents to monitor and control their robot's activities.
+
+- Additionally, I'm working on migrating a Django project to FastAPI. This involves rewriting the API endpoints using FastAPI's modern approach to building APIs, enhancing performance, and ensuring a smooth transition.
+
 ## 👯 Looking to collaborate?
 
 I'm always open to collaborating on interesting projects. If you have any ideas or opportunities you'd like to discuss, feel free to reach out. Let's create something awesome together!
