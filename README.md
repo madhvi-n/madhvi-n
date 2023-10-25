@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm Madhvi, a passionate backend developer from India.
+Welcome to my GitHub profile! I'm Madhvi, hailing from India and specializing in backend development.
 
 ## 💻 Tech Stack
 
@@ -31,13 +31,13 @@ Feel free to reach out if you have any resources or recommendations related to t
 
 I'm always open to collaborating on interesting projects. If you have any ideas or opportunities you'd like to discuss, feel free to reach out. Let's create something awesome together!
 
-## 💬 Ask me about
+<!-- ## 💬 Ask me about
 - Building RESTful APIs with Django Rest Framework
 - Web development using Django and GraphQL
 - Containerization and deployment with Docker
 
 
-I'll be happy to share my insights and help in any way I can.
+I'll be happy to share my insights and help in any way I can. -->
 
 ## 📫 How to reach me
 
