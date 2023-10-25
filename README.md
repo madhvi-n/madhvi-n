@@ -14,7 +14,7 @@ Here are some of the technologies and tools I work with:
 
 ## 🔭 What I'm currently working on
 
-I'm currently working on [Current Project/Work] where I'm [Brief Description of Your Role/Responsibilities]. I'm excited about [Specific Goals/Objectives] and constantly learning new things along the way.  -->
+I'm currently working on [Current Project/Work] where I'm [Brief Description of Your Role/Responsibilities]. I'm excited about [Specific Goals/Objectives] and constantly learning new things along the way.  
 
 ## 🌱 What I'm currently learning
 
@@ -24,7 +24,7 @@ I'm always eager to expand my knowledge and stay updated with the latest trends.
 - Building projects with GraphQL and Django
 - Exploring Docker and containerization in the context of Django projects
 
-Feel free to reach out if you have any resources or recommendations related to these topics!
+Feel free to reach out if you have any resources or recommendations related to these topics! -->
 
 
 ## 👯 Looking to collaborate?
