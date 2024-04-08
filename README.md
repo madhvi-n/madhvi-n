@@ -47,10 +47,10 @@ I'll be happy to share my insights and help in any way I can. -->
 - Email: [madhvinandanwar@gmail.com](mailto:madhvinandanwar@gmail.com)
 
 
-<!-- Feel free to reach out if you have any questions or want to connect. I'm always eager to collaborate and learn from others in the tech community. -->
+<!-- Feel free to reach out if you have any questions or want to connect. I'm always eager to collaborate and learn from others in the tech community.
 
 
-Thanks for visiting my GitHub profile! Have a great day! 😄
+Thanks for visiting my GitHub profile! Have a great day! 😄 -->
 
     
 <!-- | <a href="https://github.com/madhvi-n#gh-light-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api?username=madhvi-n&show_icons=true&locale=en&hide_border=true" /></a><a href="https://github.com/madhvi-n#gh-dark-mode-only"><img align="center" src="https://github-readme-stats.vercel.app/api?username=madhvi-n&show_icons=true&locale=en&theme=radical&hide_border=true" /> <a/>  | <a href="https://github.com/madhvi-n#gh-light-mode-only"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhvi-n&hide_border=true" alt="madhvi-n" /></a> <a href="https://github.com/madhvi-n#gh-dark-mode-only"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhvi-n&theme=radical&hide_border=true" alt="madhvi-n" /></a> |
