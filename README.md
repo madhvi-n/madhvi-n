@@ -26,6 +26,7 @@ I'm always eager to expand my knowledge and stay updated with the latest trends.
 
 Feel free to reach out if you have any resources or recommendations related to these topics! -->
 
+<!--
 
 ## 👯 Looking to collaborate?
 
@@ -46,7 +47,7 @@ I'll be happy to share my insights and help in any way I can. -->
 - Email: [madhvinandanwar@gmail.com](mailto:madhvinandanwar@gmail.com)
 
 
-Feel free to reach out if you have any questions or want to connect. I'm always eager to collaborate and learn from others in the tech community.
+<!-- Feel free to reach out if you have any questions or want to connect. I'm always eager to collaborate and learn from others in the tech community. -->
 
 
 Thanks for visiting my GitHub profile! Have a great day! 😄
