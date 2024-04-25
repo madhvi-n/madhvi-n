@@ -42,8 +42,8 @@ I'll be happy to share my insights and help in any way I can. -->
 
 ## 📫 How to reach me
 
-<!-- - Website: [Your Website or Blog URL] -->
-- LinkedIn: [madhvi-nandanwar](https://www.linkedin.com/in/madhvi-nandanwar/)
+<!-- - Website: [Your Website or Blog URL] 
+- LinkedIn: [madhvi-nandanwar](https://www.linkedin.com/in/madhvi-nandanwar/) -->
 - Email: [madhvinandanwar@gmail.com](mailto:madhvinandanwar@gmail.com)
 
 
