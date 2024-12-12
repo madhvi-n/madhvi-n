@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm Madhvi, hailing from India and specializing in
 Here are some of the technologies and tools I work with:
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,angular,typescript,javascript,bash,css,html,sass,bootstrap,mongo,mysql,postgres,redis,graphql,postman,git,gitlab,bitbucket,docker,linux,vim,sentry,ubuntu,pycharm,hibernate&perline=13" />
+    <img src="https://skillicons.dev/icons?i=python,django,angular,typescript,javascript,java,bash,css,html,sass,bootstrap,mongo,mysql,postgres,mysql,redis,graphql,postman,git,gitlab,bitbucket,docker,linux,vim,sentry,ubuntu,pycharm,idea,vscode,hibernate&perline=13" />
 </a>
 
 <!-- Feel free to ask me anything related to these technologies or any other topic you'd like to discuss!
