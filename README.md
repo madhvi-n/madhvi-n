@@ -10,7 +10,7 @@ Here are some of the technologies and tools I work with:
     <img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,bash,html,css,sass,bootstrap,tailwind,angular,django,hibernate,maven,mysql,postgres,redis,graphql,postman,git,gitlab,bitbucket,docker,linux,ubuntu,vim,pycharm,idea,vscode,sentry&perline=15" />
 </a>
 
-<- ansible,apollo,aws,gcp,elasticsearch,githubactions,gradle,jenkins,kubernetes,prometheus,grafana,pytorch,spring,sklearn,tensorflow ->
+<!-- ansible,apollo,aws,gcp,elasticsearch,githubactions,gradle,jenkins,kubernetes,prometheus,grafana,pytorch,spring,sklearn,tensorflow -->
 
 
 <!-- Feel free to ask me anything related to these technologies or any other topic you'd like to discuss!
