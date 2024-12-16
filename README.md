@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm Madhvi, hailing from India and specializing in backend development.
+Welcome to my GitHub profile! I'm Madhvi and I specialize in backend development.
 
 ## 💻 Tech Stack
 
