@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm Madhvi, and I specialize in backend developmen
 Here are some of the technologies and tools I work with:
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,bash,html,css,angular,django,hibernate,maven,mysql,postgres,redis,graphql,postman,git,gitlab,bitbucket,docker,linux,ubuntu,vim,pycharm,idea,vscode,sentry&perline=15" />
+    <img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,bash,html,css,angular,django,hibernate,maven,mysql,postgres,redis,postman,git,gitlab,bitbucket,docker,linux,ubuntu,vim,pycharm,idea,vscode,sentry&perline=14" />
 </a>
 
 <!-- ansible,apollo,aws,gcp,elasticsearch,githubactions,gradle,jenkins,kubernetes,prometheus,grafana,pytorch,spring,sklearn,tensorflow -->
