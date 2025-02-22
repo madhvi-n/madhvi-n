@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm **Madhvi**, and I specialize in **backend development**.
 
-![Profile Views](https://komarev.com/ghpvc/?username=madhvi-n&color=blue&style=flat-square)
+<!--![Profile Views](https://komarev.com/ghpvc/?username=madhvi-n&color=blue&style=flat-square)-->
 
 
 ## 💻 Tech Stack  
