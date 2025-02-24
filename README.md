@@ -47,7 +47,7 @@ If you have an idea or an opportunity, let’s connect and build something aweso
 ## 📫 How to Reach Me  
 
 - 📧 Email: [madhvinandanwar@gmail.com](mailto:madhvinandanwar@gmail.com)  
-- 💼 LinkedIn: [Madhvi Nandanwar](https://www.linkedin.com/in/madhvi-nandanwar/)  
+<!-- - 💼 LinkedIn: [Madhvi Nandanwar](https://www.linkedin.com/in/madhvi-nandanwar/)  -->
 
 
 
