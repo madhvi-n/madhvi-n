@@ -13,7 +13,7 @@ Here are some of the technologies and tools I work with:
     <img src="https://skillicons.dev/icons?i=python,java,typescript,javascript,bash,html,css,angular,django,hibernate,maven,mysql,postgres,redis,postman,git,gitlab,bitbucket,docker,linux,ubuntu,vim,pycharm,idea,vscode,sentry&perline=13" />
 </a>
 
-<!-- Additional tools: ansible, apollo, aws, gcp, elasticsearch, githubactions, gradle, jenkins, kubernetes, prometheus, grafana, pytorch, spring, sklearn, tensorflow -->
+<!-- Additional tools: go,flutter,dart,ansible, apollo, aws, gcp, elasticsearch, githubactions, gradle, jenkins, kubernetes, prometheus, grafana, pytorch, spring, sklearn, tensorflow -->
 
 
 <!--
