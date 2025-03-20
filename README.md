@@ -53,7 +53,7 @@ If you have an idea or an opportunity, let’s connect and build something aweso
 
 ## 📊 GitHub Stats  
 
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhvi-n&show_icons=true&locale=en&hide_border=true&hide=issues,contribs) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=madhvi-n&layout=compact&hide_border=true&hide_progress=true) |  
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madhvi-n&show_icons=true&locale=en&hide_border=true&hide=issues,contribs) | [![GitHub Streak](https://streak-stats.demolab.com?user=madhvi-n&hide_border=true)](https://git.io/streak-stats) |  
 | ------------- |:-------------:|  
 
 
