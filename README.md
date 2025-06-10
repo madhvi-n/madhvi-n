@@ -13,7 +13,7 @@ Here are some of the technologies and tools I work with:
     <img src="https://skillicons.dev/icons?i=python,java,typescript,django,fastapi,mysql,postgres,redis,git,githubactions,docker,kubernetes,ubuntu,debian,aws,gcp&perline=10" />
 </a>
 
-<!-- Additional tools: go,flutter,ansible, aws, gcp, elasticsearch, githubactions, gradle, jenkins, kubernetes, prometheus, grafana, pytorch, spring, sklearn, tensorflow -->
+<!-- Additional tools: go,flutter,ansible, cassandra, dynamodb, mongodb, elasticsearch,github, gitlab, bitbucket, githubactions, gradle, jenkins, kafka, kubernetes, terraform, prometheus, grafana, pytorch, graphql, spring, sklearn, tensorflow -->
 
 
 ## 📊 GitHub Stats  
