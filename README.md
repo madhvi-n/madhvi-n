@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm **Madhvi**, and I specialize in **backend deve
 Here are some of the technologies and tools I work with:  
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,typescript,django,fastapi,mysql,postgres,redis,git,githubactions,docker,kubernetes,ubuntu,debian,aws,gcp&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,java,typescript,django,fastapi,mysql,postgres,redis,git,githubactions,docker,kubernetes,ubuntu,debian,aws,gcp&perline=10" />
 </a>
 
 <!-- Additional tools: go,flutter,ansible, aws, gcp, elasticsearch, githubactions, gradle, jenkins, kubernetes, prometheus, grafana, pytorch, spring, sklearn, tensorflow -->
